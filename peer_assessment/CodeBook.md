@@ -93,7 +93,7 @@ For more information about this dataset contact: activityrecognition@smartlab.ws
 Data transformation
 -------------------
 
-The raw data sets are processed with run_analisys.R script to create a tidy data
+The raw data sets are processed with run_analysis.R script to create a tidy data
 set.
 
 ### Merge training and test sets
